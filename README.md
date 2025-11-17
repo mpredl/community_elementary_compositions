@@ -13,6 +13,7 @@ A full description of the model reconstruction can be found in [Duller et al. 20
 The generation of the community metabolic model and much of the analsysis is done using [PyCoMo](https://doi.org/10.1093/bioinformatics/btae153).
 
 If you want to cite this work, please use the following information:
+
 __Elementary vectors reveal minimal interactions in microbial communities__\
 Stefan Müller, Michael Predl, Diana Széliová, Jürgen Zanghellini\
 bioRxiv 2025.07.30.667663; doi: [https://doi.org/10.1101/2025.07.30.667663](https://doi.org/10.1101/2025.07.30.667663) 
