@@ -1,4 +1,4 @@
-# community_elementary_compositions
+# Community elementary compositions
 
 This is an example for calculating elementary compositions (eCs) in community metabolic models. Elementary compositions are non-decomposable vectors of community compositions - in essence the boundaries of the feasible community composition space. More information on eCs and other elementary objects in community metabolic models can be found in our manuscript [Elementary vectors reveal minimal interactions in microbial communities](https://doi.org/10.1101/2025.07.30.667663 )
 
